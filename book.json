@@ -1,17 +1,19 @@
 {
   "title": "Programando com Orientação a Objetos",
-  "language": "pt",
+  "language": "pt-BR",
   "author": "Grupo de PHP da Zona da Mata <contato@phpzm.rocks>",
-  "root": "./manuscript",
+  "root": "./docs",
   "structure": {
-    "readme": "README.md",
+    "readme": "readme.md",
     "glossary": "glossary.md",
     "summary": "summary.md"
   },
   "plugins": [
     "disqus",
     "ga",
-    "github"
+    "github",
+    "prism",
+    "-highlight"
   ],
   "pluginsConfig": {
     "disqus": {

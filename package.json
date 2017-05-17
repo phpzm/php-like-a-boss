@@ -2,7 +2,6 @@
   "name": "php-like-a-boss",
   "version": "0.0.1",
   "description": "PHP Like a Boss",
-  "main": "index.js",
   "dependencies": {
     "gh-pages": "^0.12.0",
     "gitbook-plugin-ace": "^0.3.2",
@@ -22,12 +21,10 @@
   },
   "devDependencies": {},
   "scripts": {
-    "postinstall": "gitbook install",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "gitbook serve",
-    "build": "gitbook build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d _book"
+    "docs:prepare": "gitbook install",
+    "docs:watch": "npm run docs:prepare && gitbook serve",
+    "docs:build": "npm run docs:prepare && rm -rf _book && gitbook build",
+    "docs:publish": "npm run docs:build && git push git@github.com:phpzm/php-like-a-boss.git gh-pages --force"
   },
   "repository": {
     "type": "git",
