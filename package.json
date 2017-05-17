@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gomex/docker-para-desenvolvedores.git"
+    "url": "git+https://github.com/phpzm/php-like-a-boss.git"
   },
   "keywords": [
     "PHP"
@@ -39,7 +39,7 @@
   "author": "@wilcorrea",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/phpzm/php-programando-com-orientacao-a-objetos/issues"
+    "url": "https://github.com/phpzm/php-like-a-boss/issues"
   },
-  "homepage": "https://github.com/phpzm/php-programando-com-orientacao-a-objetos#readme"
+  "homepage": "https://github.com/phpzm/php-like-a-bosss#readme"
 }
