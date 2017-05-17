@@ -13,3 +13,9 @@ Este livro tem a pretensão de ser um guia de como criar aplicações usando PHP
 
 Se você sente uma necessidade frequente de melhorar seu desempenho frente ao que você faz no mundo da programação está aqui um convite a adentrar no mundo do PHP com toda a qualidade que esta linguagem pode oferecer.
 
+----
+
+###### Powered by Gitbook / made with ♥ em Ubá
+
+----
+(https://toolchain.gitbook.com/syntax/markdown.html)
