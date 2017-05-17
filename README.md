@@ -1,7 +1,7 @@
 # PHP Like a Boss
 
 [![Pay](https://img.shields.io/badge/%24-free-%23a10000.svg)](#)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/phpzm/php-like-a-boss/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/phpzm/php-like-a-boss/blob/master/LICENSE.md)
 [![GitHub issues](https://img.shields.io/github/issues/phpzm/php-like-a-boss.svg)](https://github.com/phpzm/php-like-a-boss/issues)
 
 
