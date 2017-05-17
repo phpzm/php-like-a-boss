@@ -19,12 +19,16 @@
     "gitbook-plugin-wabtheme": "^0.0.1",
     "gitbook-plugin-zingchart": "^2.1.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gitbook-cli": "^2.3.0"
+  },
   "scripts": {
     "prepare": "gitbook install",
     "dev": "npm run prepare && gitbook serve",
     "build": "npm run prepare && rm -rf _book && gitbook build",
-    "publish": "npm run build && ./publish.sh"
+    "publish": "npm run build && ./publish.sh",
+    "pdf": "gitbook pdf ./ ./dist/php-like-a-boss.pdf",
+    "epub": "gitbook epub ./ ./dist/php-like-a-boss.epub"
   },
   "repository": {
     "type": "git",

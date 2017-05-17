@@ -13,7 +13,8 @@
     "ga",
     "github",
     "prism",
-    "-highlight"
+    "-highlight",
+    "github-edit"
   ],
   "pluginsConfig": {
     "disqus": {
@@ -24,6 +25,10 @@
     },
     "github": {
       "url": "https://github.com/phpzm/php-like-a-boss"
+    },
+    "github-edit": {
+        "repo": "phpzm/php-like-a-boss",
+        "branch": "master/manuscript"
     }
   }
 }
