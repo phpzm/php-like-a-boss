@@ -6,5 +6,5 @@ Tudo começou com um ímpeto de fazer o PHP ser visto como ele é de verdade. Su
 
 Este livro tem a pretensão de ser um guia de como criar aplicações usando PHP usando o que há de melhor na Orientação a Objetos e no ecossistema da linguagem.
 
-Se você sente uma necessidade frequente de melhorar seu desempenho frente ao que você faz no mundo da programação está aqui um convite a adentrar no mundo do PHP com toda a qualidade que você pode pensar.
+Se você sente uma necessidade frequente de melhorar seu desempenho frente ao que você faz no mundo da programação está aqui um convite a adentrar no mundo do PHP com toda a qualidade que esta linguagem pode oferecer.
 
