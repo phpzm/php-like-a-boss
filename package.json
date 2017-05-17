@@ -34,10 +34,10 @@
     "url": "git+https://github.com/gomex/docker-para-desenvolvedores.git"
   },
   "keywords": [
-    "docker"
+    "PHP"
   ],
-  "author": "@gomex",
-  "license": "CC-BY-4.0",
+  "author": "@wilcorrea",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/phpzm/php-programando-com-orientacao-a-objetos/issues"
   },
